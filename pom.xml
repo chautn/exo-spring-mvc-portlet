@@ -1,7 +1,7 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.exoplatform.samples</groupId>
-	<artifactId>spring-mvc-portlet</artifactId>
+	<artifactId>sample-spring-mvc-portlet</artifactId>
 	<version>4.2.x</version>
 	<packaging>war</packaging>
 	
@@ -15,8 +15,8 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc-portlet</artifactId>
-			<!--<version>4.0.4.RELEASE</version>-->
-			<version>2.5.5</version>
+			<version>4.0.4.RELEASE</version>
+			<!-- <version>2.5.5</version> -->
 		</dependency>
 		<dependency>
 			<groupId>javax.servlet</groupId>
